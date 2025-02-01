@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code](https://github.com/AlanBoulesteix/advice-generator-app)
-- Live Site URL: [Advice Generator App](https://advice-generator-k3f6a3ghf-boulesteixs-projects.vercel.app/)
+- Live Site URL: [Advice Generator App](https://advice-generator-app-git-main-boulesteixs-projects.vercel.app/)
 
 ## My process
 
