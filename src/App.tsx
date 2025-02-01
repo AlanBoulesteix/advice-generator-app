@@ -1,7 +1,12 @@
 import './App.css';
+import AdviceGeneratorApp from './Component/AdviceGeneratorApp/AdviceGeneratorApp';
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <AdviceGeneratorApp />
+    </>
+  );
 }
 
 export default App;
